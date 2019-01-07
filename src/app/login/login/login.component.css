@@ -1,0 +1,44 @@
+.NAKWindow{ 
+    margin-left:500px;
+    margin-right:500px;
+    background:silver;
+    /* 框線 */
+    border-top-style:inset;
+    border-width:10px;
+    border-color:black;
+}
+.LearningWindow{
+    text-align:right;
+    margin-left:500px;
+    margin-right:500px;
+    background:silver;
+    /* 框線 */
+    border-bottom-style:inset;
+    border-width:10px;
+    border-color:black;
+}
+.font-NAK{
+    font-family:Impact, Helvetica, sans-serif;
+    font-size: 70px;
+}
+.font-Learning{
+    font-family:Impact, Helvetica, sans-serif;
+    font-size: 65px;
+}
+.email{
+    text-align:center;
+    font-size: 25px;
+    font-family:fantasy, Helvetica, sans-serif;
+}
+.pwd{
+    text-align:center;
+    font-size: 25px;
+    font-family:fantasy, Helvetica, sans-serif;
+}
+.btn{
+    position:relative;
+    left:47%;
+    font-size: 25px;
+    font-family:fantasy, Helvetica, sans-serif;
+    
+}
